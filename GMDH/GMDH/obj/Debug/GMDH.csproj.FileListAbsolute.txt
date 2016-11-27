@@ -1,0 +1,6 @@
+c:\users\ieuser\documents\visual studio 2015\Projects\GMDH\GMDH\bin\Debug\GMDH.exe.config
+c:\users\ieuser\documents\visual studio 2015\Projects\GMDH\GMDH\bin\Debug\GMDH.exe
+c:\users\ieuser\documents\visual studio 2015\Projects\GMDH\GMDH\bin\Debug\GMDH.pdb
+c:\users\ieuser\documents\visual studio 2015\Projects\GMDH\GMDH\obj\Debug\GMDH.csprojResolveAssemblyReference.cache
+c:\users\ieuser\documents\visual studio 2015\Projects\GMDH\GMDH\obj\Debug\GMDH.exe
+c:\users\ieuser\documents\visual studio 2015\Projects\GMDH\GMDH\obj\Debug\GMDH.pdb

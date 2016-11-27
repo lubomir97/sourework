@@ -1,0 +1,6 @@
+c:\users\ieuser\documents\visual studio 2015\Projects\RBM\RBM\bin\Debug\RBM.exe.config
+c:\users\ieuser\documents\visual studio 2015\Projects\RBM\RBM\obj\Debug\RBM.csprojResolveAssemblyReference.cache
+c:\users\ieuser\documents\visual studio 2015\Projects\RBM\RBM\bin\Debug\RBM.exe
+c:\users\ieuser\documents\visual studio 2015\Projects\RBM\RBM\bin\Debug\RBM.pdb
+c:\users\ieuser\documents\visual studio 2015\Projects\RBM\RBM\obj\Debug\RBM.exe
+c:\users\ieuser\documents\visual studio 2015\Projects\RBM\RBM\obj\Debug\RBM.pdb
